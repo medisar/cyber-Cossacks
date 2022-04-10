@@ -1,7 +1,3 @@
-https://www.amediateka.ru tcp://212.193.156.175:443 --http-methods GET STRESS
+https://www.amediateka.ru --http-methods GET STRESS
 
-tcp://212.193.146.216:80 tcp://212.193.156.175:443 --http-methods GET STRESS
-
-tcp://212.193.146.216:80 tcp://212.193.146.216:443 --http-methods GET STRESS
-
-https://kino-teatr.ru http://m.kino-teatr.ru/ tcp://178.218.212.59:21 --http-methods GET STRESS
+https://kino-teatr.ru http://m.kino-teatr.ru --http-methods GET STRESS

@@ -1,13 +1,7 @@
-https://okko.tv https://aeroflotbonus.okko.tv https://cabinet.okko.tv/login --http-methods GET STRESS
+https://www.amediateka.ru tcp://212.193.156.175:443 --http-methods GET STRESS
 
-https://www.agent.okko.tv/ https://agents.okko.tv https://premiere.okko.tv --http-methods GET STRESS
+tcp://212.193.146.216:80 tcp://212.193.156.175:443 --http-methods GET STRESS
 
-https://show.okko.tv https://mimimi.okko.team/ https://pobeda.okko.tv --http-methods GET STRESS
+tcp://212.193.146.216:80 tcp://212.193.146.216:443 --http-methods GET STRESS
 
-https://www.ontvtime.ru https://www.amediateka.ru https://kodiki.amediateka.ru --http-methods GET STRESS
-
-https://localandroid.amediateka.ru/ https://bbb.amediateka.ru/b https://rt.amediateka.ru --http-methods GET STRESS
-
-https://akado.amediateka.ru/ https://wink.ru https://www.kartina.tv --http-methods GET STRESS
-
-https://www.debilizator.tv https://www.glaz.tv/online-tv --http-methods GET STRESS
+https://kino-teatr.ru http://m.kino-teatr.ru/ tcp://178.218.212.59:21 --http-methods GET STRESS

